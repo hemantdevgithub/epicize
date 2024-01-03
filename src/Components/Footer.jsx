@@ -72,12 +72,12 @@ function Footer() {
                 info@epicize.com
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="tel:+022 5454 5252">+022 5454 5252</a>
             </li>
             <li>
               <a href="tel:+022 2326 6232">+022 2326 6232</a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
